@@ -49,3 +49,10 @@ img {
     padding: 10px;
     gap: 10px;
 }
+
+.remove_product {
+    display: flex;
+    color: red;
+    padding: 5px;
+    border-radius: 10px;
+}
